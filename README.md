@@ -39,8 +39,8 @@
 
 
 <p align="center">
- <a href="https://github.com/fiazhussaiin#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felangel&layout=compact&langs_count=8&theme=github_dark&utcOffset=4&size_wei&no-frame=true&column=3&row=2"  width="40%" alt="@Asad's wakatime stats"/></a>
- <a href="https://github.com/fiazhussaiin#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felangel&layout=compact&langs_count=8&theme=github&utcOffset=4&no-frame=true&column=3&row=2"  width="40%" alt="@Asad's wakatime stats"/></a>
+ <a href="https://github.com/fiazhussaiin#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiazhussaiin&layout=compact&langs_count=8&theme=github_dark&utcOffset=4&size_wei&no-frame=true&column=3&row=2"  width="40%" alt="@Asad's wakatime stats"/></a>
+ <a href="https://github.com/fiazhussaiin#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiazhussaiin&layout=compact&langs_count=8&theme=github&utcOffset=4&no-frame=true&column=3&row=2"  width="40%" alt="@Asad's wakatime stats"/></a>
 <a href="https://github.com/fiazhussaiin?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=fiazhussaiin&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Asad's trophy stats"/></a>
 <a href="https://github.com/fiazhussaiin?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=fiazhussaiin&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Asad's trophy stats"/></a>
 </p>
