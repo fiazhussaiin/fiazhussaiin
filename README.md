@@ -14,7 +14,7 @@
 <p align="center">
 
 <!-- OLD github-readme-stats
-<a href="https://github.com/asad06124?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Asad06124&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Asad's github-readme-stats"/></a>
+<a href="https://github.com/fiazhussaiin?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=fiazhussaiin&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Asad's github-readme-stats"/></a>
 -->
 
 <!-- <a href="https://github.com/fiazhussaiin?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=fiazhussaiin&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Asad's github-readme-stats"/></a>
@@ -48,10 +48,10 @@
 
 
 <!-- <p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3fiazhussaiin+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asad06124&theme=github_dark&utcOffset=4"  width="31%" alt="@Asad's productive-time"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3fiazhussaiin+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asad06124&theme=github&utcOffset=4"  width="31%" alt="@Asad's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3fiazhussaiin+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad06124&theme=github_dark&hide_border=true"  width="64%" alt="@Asad's profile-details"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3fiazhussaiin+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad06124&theme=github&hide_border=true"  width="64%" alt="@Asad's profile-details"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3fiazhussaiin+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fiazhussaiin&theme=github_dark&utcOffset=4"  width="31%" alt="@Asad's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3fiazhussaiin+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fiazhussaiin&theme=github&utcOffset=4"  width="31%" alt="@Asad's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3fiazhussaiin+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fiazhussaiin&theme=github_dark&hide_border=true"  width="64%" alt="@Asad's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3fiazhussaiin+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fiazhussaiin&theme=github&hide_border=true"  width="64%" alt="@Asad's profile-details"/></a>
 </p>
 
 
